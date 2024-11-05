@@ -1,6 +1,6 @@
 ### Hi I'm Gabriel Soares Cassimiro
 
-- 🔭 Today I'm work as analyst JR (FullStack Developer) At BT Créditos 
+- 🔭 Today I'm work as analyst PL (FullStack Developer) At BT Créditos 
 - 🌱 I’m currently learning these subjects  ML, LLM, .NET, TS,
 - 👯 I’m looking to collaborate on Any project could be bring me more expetise
 - 📫 For contact gabrielcassimiro4@gmail.com or gsoarescassimiro@gmail.com
